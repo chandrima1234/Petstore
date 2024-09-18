@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2024/06/03 14:29:52,2973,Home Request,200,OK,Thread Group 1-1,text,true,,189019,117,1,1,https://lifecharger.eu/,1386,0,1170

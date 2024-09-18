@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2024/04/10 17:35:45,2633,HTTP Request 1,200,OK,Thread Group 1-1,text,true,,189461,234,2,2,https://lifecharger.eu/,878,0,211
+2024/04/10 17:35:45,882,HTTP Request 1-0,301,Moved Permanently,Thread Group 1-1,text,true,,442,117,2,2,http://lifecharger.eu/,878,0,211
+2024/04/10 17:35:46,1747,HTTP Request 1-1,200,OK,Thread Group 1-1,text,true,,189019,117,2,2,https://lifecharger.eu/,972,0,787
+2024/04/10 17:35:45,2385,HTTP Request 1,200,OK,Thread Group 1-2,text,true,,189461,234,1,1,https://lifecharger.eu/,776,0,179
+2024/04/10 17:35:45,776,HTTP Request 1-0,301,Moved Permanently,Thread Group 1-2,text,true,,442,117,1,1,http://lifecharger.eu/,776,0,179
+2024/04/10 17:35:46,1608,HTTP Request 1-1,200,OK,Thread Group 1-2,text,true,,189019,117,1,1,https://lifecharger.eu/,665,0,480

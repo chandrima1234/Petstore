@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1712143706943,1723,HTTP Request,200,OK,Thread Group 1-1,text,true,,125504,127,1,1,https://naveenautomationlabs.com/,1488,0,1085
+1712143899801,1602,HTTP Request,200,OK,Thread Group 1-1,text,true,,125471,127,1,1,https://naveenautomationlabs.com/,1354,0,973

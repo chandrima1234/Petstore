@@ -1,0 +1,112 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+10/04/2024 12:10,2690,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140633,245,3,3,http://lifecharger.eu/about/,1649,0,565
+10/04/2024 12:10,1649,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,447,122,3,3,http://lifecharger.eu/about,1649,0,565
+10/04/2024 12:10,1040,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140186,123,3,3,http://lifecharger.eu/about/,245,0,0
+10/04/2024 12:10,2923,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140633,245,3,3,http://lifecharger.eu/about/,1651,0,567
+10/04/2024 12:10,1651,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,447,122,3,3,http://lifecharger.eu/about,1651,0,567
+10/04/2024 12:10,1272,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140186,123,3,3,http://lifecharger.eu/about/,246,0,0
+10/04/2024 12:10,3645,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140633,245,5,5,http://lifecharger.eu/about/,1652,0,569
+10/04/2024 12:10,1652,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,447,122,5,5,http://lifecharger.eu/about,1652,0,569
+10/04/2024 12:10,1993,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140186,123,5,5,http://lifecharger.eu/about/,247,0,0
+10/04/2024 12:10,1831,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140633,245,5,5,http://lifecharger.eu/about/,1104,0,227
+10/04/2024 12:10,1104,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,447,122,5,5,http://lifecharger.eu/about,1104,0,227
+10/04/2024 12:10,726,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140186,123,5,5,http://lifecharger.eu/about/,185,0,0
+10/04/2024 12:10,2085,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140633,245,5,5,http://lifecharger.eu/about/,1177,0,180
+10/04/2024 12:10,1177,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,447,122,5,5,http://lifecharger.eu/about,1177,0,180
+10/04/2024 12:10,907,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140186,123,5,5,http://lifecharger.eu/about/,186,0,0
+10/04/2024 12:10,2109,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1195,0,183
+10/04/2024 12:10,1195,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1195,0,183
+10/04/2024 12:10,914,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,188,0,0
+10/04/2024 12:10,2153,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1252,0,180
+10/04/2024 12:10,1252,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1252,0,180
+10/04/2024 12:10,900,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,184,0,0
+10/04/2024 12:10,1885,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,977,0,183
+10/04/2024 12:10,977,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,977,0,183
+10/04/2024 12:10,907,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,183,0,0
+10/04/2024 12:10,1575,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,844,0,182
+10/04/2024 12:10,844,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,844,0,182
+10/04/2024 12:10,731,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,185,0,0
+10/04/2024 12:10,2272,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1557,0,176
+10/04/2024 12:10,1557,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1557,0,176
+10/04/2024 12:10,716,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,180,0,0
+10/04/2024 12:10,2529,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1632,0,179
+10/04/2024 12:10,1632,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1632,0,179
+10/04/2024 12:10,898,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,182,0,0
+10/04/2024 12:10,2681,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1748,0,178
+10/04/2024 12:10,1748,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1748,0,178
+10/04/2024 12:10,934,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,183,0,0
+10/04/2024 12:10,2697,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1757,0,185
+10/04/2024 12:10,1757,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1757,0,185
+10/04/2024 12:10,940,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,222,0,0
+10/04/2024 12:10,2713,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1823,0,179
+10/04/2024 12:10,1823,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1823,0,179
+10/04/2024 12:10,890,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,184,0,0
+10/04/2024 12:10,2742,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,1835,0,179
+10/04/2024 12:10,1835,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,1835,0,179
+10/04/2024 12:10,908,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,193,0,0
+10/04/2024 12:10,2555,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140633,245,10,10,http://lifecharger.eu/about/,1643,0,181
+10/04/2024 12:10,1643,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,447,122,10,10,http://lifecharger.eu/about,1643,0,181
+10/04/2024 12:10,912,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140186,123,10,10,http://lifecharger.eu/about/,194,0,0
+10/04/2024 12:10,2072,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140633,245,10,10,http://lifecharger.eu/about/,1190,0,176
+10/04/2024 12:10,1190,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,447,122,10,10,http://lifecharger.eu/about,1190,0,176
+10/04/2024 12:10,882,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140186,123,10,10,http://lifecharger.eu/about/,181,0,0
+10/04/2024 12:10,1511,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140633,245,10,10,http://lifecharger.eu/about/,786,0,180
+10/04/2024 12:10,786,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,447,122,10,10,http://lifecharger.eu/about,786,0,180
+10/04/2024 12:10,724,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140186,123,10,10,http://lifecharger.eu/about/,185,0,0
+10/04/2024 12:10,2731,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,TRUE,,140633,245,10,10,http://lifecharger.eu/about/,1787,0,179
+10/04/2024 12:10,1787,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,TRUE,,447,122,10,10,http://lifecharger.eu/about,1787,0,179
+10/04/2024 12:10,943,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-7,text,TRUE,,140186,123,10,10,http://lifecharger.eu/about/,219,0,0
+10/04/2024 12:10,2740,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,140633,245,9,9,http://lifecharger.eu/about/,1832,0,180
+10/04/2024 12:10,1832,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,447,122,9,9,http://lifecharger.eu/about,1832,0,180
+10/04/2024 12:10,908,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-5,text,TRUE,,140186,123,9,9,http://lifecharger.eu/about/,187,0,0
+10/04/2024 12:10,3031,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,TRUE,,140633,245,8,8,http://lifecharger.eu/about/,2132,0,182
+10/04/2024 12:10,2132,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,TRUE,,447,122,8,8,http://lifecharger.eu/about,2132,0,182
+10/04/2024 12:10,899,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-8,text,TRUE,,140186,123,8,8,http://lifecharger.eu/about/,185,0,0
+10/04/2024 12:10,3448,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,TRUE,,140633,245,7,7,http://lifecharger.eu/about/,2541,0,176
+10/04/2024 12:10,2541,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,TRUE,,447,122,7,7,http://lifecharger.eu/about,2541,0,176
+10/04/2024 12:10,906,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-6,text,TRUE,,140186,123,7,7,http://lifecharger.eu/about/,205,0,0
+10/04/2024 12:10,3591,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,TRUE,,140633,245,6,6,http://lifecharger.eu/about/,2722,0,172
+10/04/2024 12:10,2722,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,TRUE,,447,122,6,6,http://lifecharger.eu/about,2722,0,172
+10/04/2024 12:10,869,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-10,text,TRUE,,140186,123,6,6,http://lifecharger.eu/about/,178,0,0
+10/04/2024 12:10,3766,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,140633,245,5,5,http://lifecharger.eu/about/,2861,0,194
+10/04/2024 12:10,2861,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,447,122,5,5,http://lifecharger.eu/about,2861,0,194
+10/04/2024 12:10,905,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-4,text,TRUE,,140186,123,5,5,http://lifecharger.eu/about/,184,0,0
+10/04/2024 12:10,2930,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140633,245,4,4,http://lifecharger.eu/about/,2206,0,178
+10/04/2024 12:10,2206,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,447,122,4,4,http://lifecharger.eu/about,2206,0,178
+10/04/2024 12:10,722,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-1,text,TRUE,,140186,123,4,4,http://lifecharger.eu/about/,185,0,0
+10/04/2024 12:10,3713,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,TRUE,,140633,245,3,3,http://lifecharger.eu/about/,2798,0,175
+10/04/2024 12:10,2798,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,TRUE,,447,122,3,3,http://lifecharger.eu/about,2798,0,175
+10/04/2024 12:10,915,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-9,text,TRUE,,140186,123,3,3,http://lifecharger.eu/about/,179,0,0
+10/04/2024 12:10,3674,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140633,245,2,2,http://lifecharger.eu/about/,2775,0,186
+10/04/2024 12:10,2775,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,447,122,2,2,http://lifecharger.eu/about,2775,0,186
+10/04/2024 12:10,898,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-3,text,TRUE,,140186,123,2,2,http://lifecharger.eu/about/,184,0,0
+10/04/2024 12:10,3794,HTTP Request,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140633,245,1,1,http://lifecharger.eu/about/,2878,0,181
+10/04/2024 12:10,2878,HTTP Request-0,301,Moved Permanently,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,447,122,1,1,http://lifecharger.eu/about,2878,0,181
+10/04/2024 12:10,915,HTTP Request-1,200,OK,bzm - Concurrency Thread Group-ThreadStarter 1-2,text,TRUE,,140186,123,1,1,http://lifecharger.eu/about/,184,0,0
+10/04/2024 12:11,2006,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,140633,245,1,1,http://lifecharger.eu/about/,974,0,271
+10/04/2024 12:11,974,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,447,122,1,1,http://lifecharger.eu/about,974,0,271
+10/04/2024 12:11,1032,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,140186,123,1,1,http://lifecharger.eu/about/,214,0,0
+10/04/2024 12:11,1882,HTTP Request,200,OK,Thread Group 1-1,text,TRUE,,140633,245,2,2,http://lifecharger.eu/about/,857,0,242
+10/04/2024 12:11,857,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,TRUE,,447,122,2,2,http://lifecharger.eu/about,857,0,242
+10/04/2024 12:11,1024,HTTP Request-1,200,OK,Thread Group 1-1,text,TRUE,,140186,123,2,2,http://lifecharger.eu/about/,204,0,0
+10/04/2024 12:11,1905,HTTP Request,200,OK,Thread Group 1-2,text,TRUE,,140633,245,2,2,http://lifecharger.eu/about/,882,0,265
+10/04/2024 12:11,882,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,TRUE,,447,122,2,2,http://lifecharger.eu/about,882,0,265
+10/04/2024 12:11,1022,HTTP Request-1,200,OK,Thread Group 1-2,text,TRUE,,140186,123,2,2,http://lifecharger.eu/about/,202,0,0
+10/04/2024 12:11,1927,HTTP Request,200,OK,Thread Group 1-3,text,TRUE,,140633,245,2,2,http://lifecharger.eu/about/,896,0,282
+10/04/2024 12:11,896,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,TRUE,,447,122,2,2,http://lifecharger.eu/about,896,0,282
+10/04/2024 12:11,1030,HTTP Request-1,200,OK,Thread Group 1-3,text,TRUE,,140186,123,2,2,http://lifecharger.eu/about/,210,0,0
+10/04/2024 12:11,1951,HTTP Request,200,OK,Thread Group 1-4,text,TRUE,,140633,245,1,1,http://lifecharger.eu/about/,928,0,211
+10/04/2024 12:11,928,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,TRUE,,447,122,1,1,http://lifecharger.eu/about,928,0,211
+10/04/2024 12:11,1024,HTTP Request-1,200,OK,Thread Group 1-4,text,TRUE,,140186,123,1,1,http://lifecharger.eu/about/,205,0,0
+2024/04/10 12:14:39,2891,HTTP Request,200,OK,Thread Group 1-2,text,true,,140633,245,4,4,http://lifecharger.eu/about/,1355,0,227
+2024/04/10 12:14:39,1355,HTTP Request-0,301,Moved Permanently,Thread Group 1-2,text,true,,447,122,4,4,http://lifecharger.eu/about,1355,0,227
+2024/04/10 12:14:41,1535,HTTP Request-1,200,OK,Thread Group 1-2,text,true,,140186,123,4,4,http://lifecharger.eu/about/,203,0,0
+2024/04/10 12:14:40,2101,HTTP Request,200,OK,Thread Group 1-3,text,true,,140633,245,3,3,http://lifecharger.eu/about/,977,0,356
+2024/04/10 12:14:40,977,HTTP Request-0,301,Moved Permanently,Thread Group 1-3,text,true,,447,122,3,3,http://lifecharger.eu/about,977,0,356
+2024/04/10 12:14:41,1124,HTTP Request-1,200,OK,Thread Group 1-3,text,true,,140186,123,3,3,http://lifecharger.eu/about/,204,0,0
+2024/04/10 12:14:41,1887,HTTP Request,200,OK,Thread Group 1-4,text,true,,140633,245,2,2,http://lifecharger.eu/about/,893,0,188
+2024/04/10 12:14:41,893,HTTP Request-0,301,Moved Permanently,Thread Group 1-4,text,true,,447,122,2,2,http://lifecharger.eu/about,893,0,188
+2024/04/10 12:14:42,993,HTTP Request-1,200,OK,Thread Group 1-4,text,true,,140186,123,2,2,http://lifecharger.eu/about/,209,0,0
+2024/04/10 12:14:38,4957,HTTP Request,200,OK,Thread Group 1-1,text,true,,140633,245,1,1,http://lifecharger.eu/about/,1358,0,719
+2024/04/10 12:14:38,1363,HTTP Request-0,301,Moved Permanently,Thread Group 1-1,text,true,,447,122,1,1,http://lifecharger.eu/about,1358,0,719
+2024/04/10 12:14:40,3587,HTTP Request-1,200,OK,Thread Group 1-1,text,true,,140186,123,1,1,http://lifecharger.eu/about/,1500,0,0

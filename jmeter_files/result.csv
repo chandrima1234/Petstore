@@ -1,0 +1,18 @@
+
+
+
+
+
+
+2024/09/16 13:05:49,1318,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,1312,0,837
+2024/09/16 13:05:50,500,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,499,0,0
+2024/09/16 13:05:51,509,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,508,0,0
+2024/09/16 13:10:02,1337,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,1333,0,862
+2024/09/16 13:10:03,500,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,499,0,0
+2024/09/16 13:10:04,515,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,515,0,0
+2024/09/16 13:14:24,1132,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,1127,0,650
+2024/09/16 13:14:26,506,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,505,0,0
+2024/09/16 13:14:26,421,HTTP Request,200,OK,Thread Group 1-1,text,true,,4761,119,1,1,https://www.blazedemo.com/,415,0,0
+2024/09/16 13:21:12,1428,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,1422,0,967
+2024/09/16 13:21:13,415,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,405,0,0
+2024/09/16 13:21:14,493,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,492,0,0

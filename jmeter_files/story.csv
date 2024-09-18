@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+2024/09/16 13:14:24,1132,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,1127,0,650
+2024/09/16 13:14:26,506,HTTP Request,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,505,0,0
+2024/09/16 13:14:26,421,HTTP Request,200,OK,Thread Group 1-1,text,true,,4761,119,1,1,https://www.blazedemo.com/,415,0,0
